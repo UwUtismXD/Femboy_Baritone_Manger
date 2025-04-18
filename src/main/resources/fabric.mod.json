@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "femboy-addon",
   "version": "${version}",
-  "name": "Addon Template",
+  "name": "Femboy Baritone Controller",
   "description": "An addon template for Meteor Client addons.",
   "authors": [
-    "seasnail"
+    "UwUtismXD"
   ],
   "contact": {
     "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
   },
-  "icon": "assets/template/icon.png",
+  "icon": "assets/femboy-addon/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
@@ -21,7 +21,7 @@
     "addon-template.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25"
+    "meteor-client:color": "225,19,240"
   },
   "depends": {
     "java": ">=21",
